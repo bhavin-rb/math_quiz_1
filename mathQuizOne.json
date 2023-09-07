@@ -6,19 +6,19 @@
         "options": [
           {
             "id": "A",
-            "text": "4cm"
+            "text": "4cm²"
           },
           {
             "id": "B",
-            "text": "8cm2"
+            "text": "8cm²"
           },
           {
             "id": "C",
-            "text": "4cm2"
+            "text": "4cm²"
           },
           {
             "id": "D",
-            "text": "6cm2"
+            "text": "6cm²"
           }
         ],
         "correctAnswer": "C"
@@ -29,19 +29,19 @@
         "options": [
           {
             "id": "A",
-            "text": "17cm2"
+            "text": "17cm²"
           },
           {
             "id": "B",
-            "text": "66cm2"
+            "text": "66cm²"
           },
           {
             "id": "C",
-            "text": "33m2"
+            "text": "33m²"
           },
           {
             "id": "D",
-            "text": "33cm2"
+            "text": "33cm²"
           }
         ],
         "correctAnswer": "D",
@@ -53,19 +53,19 @@
         "options": [
           {
             "id": "A",
-            "text": "32cm2"
+            "text": "32cm²"
           },
           {
             "id": "B",
-            "text": "4cm2"
+            "text": "4cm²"
           },
           {
             "id": "C",
-            "text": "64cm2"
+            "text": "64cm²"
           },
           {
             "id": "D",
-            "text": "16cm2"
+            "text": "16cm²"
           }
         ],
         "correctAnswer": "A",
