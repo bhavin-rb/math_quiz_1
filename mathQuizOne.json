@@ -1,0 +1,76 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "questionText": "What is the area of a triangle whose height is 2cm and base is 4cm?",
+        "options": [
+          {
+            "id": "A",
+            "text": "4cm"
+          },
+          {
+            "id": "B",
+            "text": "8cm2"
+          },
+          {
+            "id": "C",
+            "text": "4cm2"
+          },
+          {
+            "id": "D",
+            "text": "6cm2"
+          }
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 2,
+        "questionText": "What is the area of a following triangle?",
+        "options": [
+          {
+            "id": "A",
+            "text": "17cm2"
+          },
+          {
+            "id": "B",
+            "text": "66cm2"
+          },
+          {
+            "id": "C",
+            "text": "33m2"
+          },
+          {
+            "id": "D",
+            "text": "33cm2"
+          }
+        ],
+        "correctAnswer": "D",
+        "image": "image/question2.png"
+      },
+      {
+        "id": 3,
+        "questionText": "What is the area of a following triangle?",
+        "options": [
+          {
+            "id": "A",
+            "text": "32cm2"
+          },
+          {
+            "id": "B",
+            "text": "4cm2"
+          },
+          {
+            "id": "C",
+            "text": "64cm2"
+          },
+          {
+            "id": "D",
+            "text": "16cm2"
+          }
+        ],
+        "correctAnswer": "A",
+        "image": "image/question3.png"
+      }
+    ]
+  }
+  
