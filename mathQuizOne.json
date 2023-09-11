@@ -45,7 +45,7 @@
           }
         ],
         "correctAnswer": "D",
-        "image": "image/question2.png"
+        "image": "https://bhavin-rb.github.io/math_quiz_1/image/question2.png"
       },
       {
         "id": 3,
@@ -69,7 +69,7 @@
           }
         ],
         "correctAnswer": "A",
-        "image": "image/question3.png"
+        "image": "https://bhavin-rb.github.io/math_quiz_1/image/question3.png"
       }
     ]
   }
