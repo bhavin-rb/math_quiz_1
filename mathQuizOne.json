@@ -70,7 +70,55 @@
         ],
         "correctAnswer": "A",
         "image": "https://bhavin-rb.github.io/math_quiz_1/image/question3.png"
-      }
+      },
+     {
+        "id": 4,
+        "questionText": "What is the area of a following triangle?",
+        "options": [
+          {
+            "id": "A",
+            "text": "48cm²"
+          },
+          {
+            "id": "B",
+            "text": "54cm²"
+          },
+          {
+            "id": "C",
+            "text": "24cm²"
+          },
+          {
+            "id": "D",
+            "text": "30cm²"
+          }
+        ],
+        "correctAnswer": "C",
+        "image": "https://bhavin-rb.github.io/math_quiz_1/image/question4.png"
+      },
+     {
+        "id": 5,
+        "questionText": "What is the area of the shaded triangle?",
+        "options": [
+          {
+            "id": "A",
+            "text": "18cm²"
+          },
+          {
+            "id": "B",
+            "text": "12cm²"
+          },
+          {
+            "id": "C",
+            "text": "6cm²"
+          },
+          {
+            "id": "D",
+            "text": "14cm²"
+          }
+        ],
+        "correctAnswer": "B",
+        "image": "https://bhavin-rb.github.io/math_quiz_1/image/question5.png"
+      }   
     ]
   }
   
