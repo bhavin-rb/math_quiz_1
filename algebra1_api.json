@@ -3,7 +3,7 @@
         "title": "Math Algebra Quiz",
         "questions": [
             {
-                "question": "Solve for x: 2x + 5 = 15",
+                "question": "Solve for x:<br />2x + 5 = 15",
                 "options": [
                     "x = 5",
                     "x = 10",
@@ -13,7 +13,7 @@
                 "answer": "x = 5"
             },
             {
-                "question": "Simplify the expression: 3(x + 2) - 2(x - 1)",
+                "question": "Simplify the expression:<br />3(x + 2) - 2(x - 1)",
                 "options": [
                     "5x + 4",
                     "x + 4",
@@ -23,7 +23,7 @@
                 "answer": "5x + 4"
             },
             {
-                "question": "Factorize the expression: x² + 5x + 6",
+                "question": "Factorize the expression:<br />x² + 5x + 6",
                 "options": [
                     "(x + 2)(x + 3)",
                     "(x - 2)(x - 3)",
@@ -33,7 +33,7 @@
                 "answer": "(x + 2)(x + 3)"
             },
             {
-                "question": "Solve for x: 3x² - 7x + 2 = 0",
+                "question": "Solve for x:<br />3x² - 7x + 2 = 0",
                 "options": [
                     "x = 1/3, x = 2",
                     "x = 1/2, x = 2",
