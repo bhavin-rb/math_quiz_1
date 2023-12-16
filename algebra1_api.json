@@ -43,7 +43,8 @@
                 "answer": "x = 1/3, x = 2"
             },
             {
-                "question": "Simplify the expression: (2x² - 3x + 1) + (x² + 2x - 5)",
+                "question": "Simplify the expression: 
+                            (2x² - 3x + 1) + (x² + 2x - 5)",
                 "options": [
                     "3x² - x - 4",
                     "3x² - x + 4",
