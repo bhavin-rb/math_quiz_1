@@ -18,15 +18,15 @@
                     "5x + 4",
                     "x + 4",
                     "5x - 4",
-                    "x - 4"
+                    "x + 8"
                 ],
-                "answer": "5x + 4"
+                "answer": "x + 8"
             },
             {
                 "question": "Factorize the expression:<br />x² + 5x + 6",
                 "options": [
-                    "(x + 2)(x + 3)",
                     "(x - 2)(x - 3)",
+                    "(x + 2)(x + 3)",
                     "(x + 2)(x - 3)",
                     "(x - 2)(x + 3)"
                 ],
@@ -45,9 +45,9 @@
             {
                 "question": "Simplify the expression:<br />(2x² - 3x + 1) + (x² + 2x - 5)",
                 "options": [
-                    "3x² - x - 4",
-                    "3x² - x + 4",
                     "3x² + x - 4",
+                    "3x² - x + 4",
+                    "3x² - x - 4",
                     "3x² + x + 4"
                 ],
                 "answer": "3x² - x - 4"
